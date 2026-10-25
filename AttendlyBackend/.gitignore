@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# macOS files
+.DS_Store
+
+# Scratch & logs
+scratch/
+*.log
